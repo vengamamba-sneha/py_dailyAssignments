@@ -22,7 +22,7 @@ class Manager(Employee):
 class Developer(Employee):
    
     def work(self):
-        return f'{self.name} isa tester'
+        return f'{self.name} is a tester'
     def get_salary(self):
         return self.sal
 
