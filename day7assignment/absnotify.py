@@ -13,7 +13,7 @@ class SMS(Notify):
         print('SMS sent')
 class Push(Notify):
     def send(self):
-        print('push 2 start')   
+        print('push')   
 
 c=Email()
 c.notification()
