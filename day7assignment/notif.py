@@ -6,7 +6,7 @@ class sms:
         print('sms received')
 class push:
     def send(self):
-        print('push 2 start')
+        print('push ')
 
 def notif(obj):
     
