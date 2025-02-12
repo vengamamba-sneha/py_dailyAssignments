@@ -1,0 +1,53 @@
+1) convert the prices in USD & Euro using appropriate function
+    PricesList_inr =[3000,56000,45000,2300]
+
+2) student_name_list =["Meghan","Praavalika", "Bharath","Madhu Venkata suriya Narayana","Nithin Rajesh","Mani Prasad"]
+    List the name which has more than 6 characters as lone_names list using appropriate function
+
+3) products = [
+    {"name": "Laptop", "price": 92000},
+    {"name": "Smartphone", "price": 48000},
+    {"name": "Tablet", "price": 20000},
+    {"name": "Monitor", "price": 8000}
+    ]
+    Display the Product in ascending order based on the price of the product
+
+4) You have a list of numbers. Filter out the odd ones, double the even numbers, and sort them in ascending order
+
+5) You have a list of cities with their population data. Sort the cities in descending order of their population.
+   cities = [
+    {"name": "New York", "population": 8419600},
+    {"name": "Los Angeles", "population": 3980400},
+    {"name": "Chicago", "population": 2716000},
+    {"name": "Houston", "population": 2328000}
+]
+
+6) Extract Emails of Verified Users
+  You have a list of user records with email and a verification status. Extract the emails of verified users.
+	users = [
+    {"email": "alice@example.com", "verified": True},
+    {"email": "bob@example.com", "verified": False},
+    {"email": "charlie@example.com", "verified": True},
+    {"email": "daisy@example.com", "verified": False}
+	 ]
+
+7) Calculate Discounts for Products
+ You have a list of products with their prices. Apply a 20% discount to products costing more than $100 and return the updated prices.
+
+	products = [
+    {"name": "Laptop", "price": 1200},
+    {"name": "Headphones", "price": 80},
+    {"name": "Smartphone", "price": 700},
+    {"name": "Monitor", "price": 150}
+   ]
+
+list out discounted products
+
+8) sort Words by Length
+  Sort them in ascending order of their lengths.
+	words = ["apple", "banana", "cherry", "date", "fig"]
+
+9) write a program to remove the duplicates in the list
+# numbers3=[2,2,4,6,3,4,6,1]
+
+
